@@ -1,4 +1,4 @@
-<h1 align="center">Tsenat Z</h1>
+<h1 align="center"> Tsenat Z</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5B8FD9&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;Web+%26+Flutter+Apps;Backend+%26+APIs;Learning+and+Building" alt="typing" />
@@ -69,19 +69,5 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tsenatz&show_icons=true&title_color=5B8FD9&icon_color=5B8FD9&text_color=dce6f5&bg_color=0b1f4b&border_color=5B8FD9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsenatz&layout=compact&title_color=5B8FD9&text_color=dce6f5&bg_color=0b1f4b&border_color=5B8FD9" alt="Top languages" />
-</p>
-
----
-
-## Contact
-
-- GitHub: [github.com/tsenatz](https://github.com/tsenatz)
-- LinkedIn: [linkedin.com/in/tsenat-z](https://www.linkedin.com/in/tsenat-z)
-- Email: tsenatzeru243@gmail.com
 
 > "Make it work, make it right, make it fast."
